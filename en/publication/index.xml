@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Публикации | My Site</title>
+    <link>https://tssokolova.github.io/en/publication/</link>
+      <atom:link href="https://tssokolova.github.io/en/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Публикации</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 06 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://tssokolova.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>Публикации</title>
+      <link>https://tssokolova.github.io/en/publication/</link>
+    </image>
+    
+    <item>
+      <title>Управление версиями Зачем нужен Git?</title>
+      <link>https://tssokolova.github.io/en/publication/01/</link>
+      <pubDate>Thu, 06 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://tssokolova.github.io/en/publication/01/</guid>
+      <description>&lt;h2 id=&#34;управление-версиями-зачем-нужен-git&#34;&gt;Управление версиями: Зачем нужен Git?&lt;/h2&gt;
+&lt;p&gt;Если вы пишете код, то неизбежно сталкиваетесь с ситуацией, когда что-то сломалось, и нужно откатиться назад. Или нужно работать в команде и как-то объединять изменения. Здесь на помощь приходит &lt;strong&gt;Git&lt;/strong&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;почему-стоит-использовать-git&#34;&gt;Почему стоит использовать Git?&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;История изменений&lt;/strong&gt; — можно увидеть, кто и что изменил в коде.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Ветвление&lt;/strong&gt; — позволяет разрабатывать новые функции без риска сломать основную версию.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Совместная работа&lt;/strong&gt; — удобно работать в команде через GitHub или другие платформы.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;основные-команды&#34;&gt;Основные команды&lt;/h3&gt;
+&lt;p&gt;Вот несколько базовых команд, которые пригодятся:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-sh&#34; data-lang=&#34;sh&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git init                  &lt;span class=&#34;c1&#34;&gt;# Создание нового репозитория&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git clone &amp;lt;url&amp;gt;           &lt;span class=&#34;c1&#34;&gt;# Клонирование репозитория&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git status                &lt;span class=&#34;c1&#34;&gt;# Проверка статуса изменений&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git add &amp;lt;файл&amp;gt;            &lt;span class=&#34;c1&#34;&gt;# Добавление файла в коммит&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git commit -m &lt;span class=&#34;s2&#34;&gt;&amp;#34;Описание&amp;#34;&lt;/span&gt;  &lt;span class=&#34;c1&#34;&gt;# Фиксация изменений&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git push                  &lt;span class=&#34;c1&#34;&gt;# Отправка изменений в удаленный репозиторий&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git pull                  &lt;span class=&#34;c1&#34;&gt;# Получение последних изменений&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git branch &amp;lt;имя&amp;gt;          &lt;span class=&#34;c1&#34;&gt;# Создание новой ветки&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git checkout &amp;lt;ветка&amp;gt;      &lt;span class=&#34;c1&#34;&gt;# Переключение между ветками&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Освоив Git, можно сэкономить время и избежать множества проблем.&lt;/p&gt;
+&lt;p&gt;Используете ли вы систему контроля версий в своих проектах?&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

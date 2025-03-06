@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo Blox | My Site</title>
+    <link>https://tssokolova.github.io/en/tags/hugo-blox/</link>
+      <atom:link href="https://tssokolova.github.io/en/tags/hugo-blox/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hugo Blox</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 06 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://tssokolova.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>Hugo Blox</title>
+      <link>https://tssokolova.github.io/en/tags/hugo-blox/</link>
+    </image>
+    
+    <item>
+      <title>Моя неделя</title>
+      <link>https://tssokolova.github.io/en/post/01/</link>
+      <pubDate>Thu, 06 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://tssokolova.github.io/en/post/01/</guid>
+      <description>&lt;h2 id=&#34;итоги-недели&#34;&gt;Итоги недели&lt;/h2&gt;
+&lt;p&gt;На этой неделе было много интересного:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Завершили первую лабораторную по математическому анализу. Оказалось сложнее, чем ожидала, но зато полезно.&lt;/li&gt;
+&lt;li&gt;Разбиралась с Git. Создала первый репозиторий, научилась делать коммиты и ветки.&lt;/li&gt;
+&lt;li&gt;Попробовала новую библиотеку в Python для анализа текста — интересно, но пока многое непонятно.&lt;/li&gt;
+&lt;li&gt;Прочитала пару глав из книги по теории групп. Начинает складываться общее понимание.&lt;/li&gt;
+&lt;li&gt;Нашла полезный курс по линейной алгебре, теперь думаю, как вписать его в расписание.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;А как прошла ваша неделя?&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
