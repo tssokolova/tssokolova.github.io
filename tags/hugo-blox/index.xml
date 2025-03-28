@@ -5,12 +5,30 @@
     <link>https://tssokolova.github.io/tags/hugo-blox/</link>
       <atom:link href="https://tssokolova.github.io/tags/hugo-blox/index.xml" rel="self" type="application/rss+xml" />
     <description>Hugo Blox</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Mon, 17 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Fri, 28 Mar 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://tssokolova.github.io/media/icon_hu_645fa481986063ef.png</url>
       <title>Hugo Blox</title>
       <link>https://tssokolova.github.io/tags/hugo-blox/</link>
     </image>
+    
+    <item>
+      <title>Моя неделя</title>
+      <link>https://tssokolova.github.io/post/03/</link>
+      <pubDate>Fri, 28 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://tssokolova.github.io/post/03/</guid>
+      <description>&lt;h1 id=&#34;-итоги-недели-на-физмат-рудн&#34;&gt;📅 Итоги недели на ФизМат РУДН&lt;/h1&gt;
+&lt;p&gt;Привет, друзья! 👋&lt;/p&gt;
+&lt;p&gt;На этой неделе студенты направления &lt;em&gt;Математика и Механика&lt;/em&gt; (1 курс, ФизМат РУДН) активно включились в учебный процесс. Вот что было интересного:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;✅ Провели первую лабораторную работу по физике — исследовали законы Ньютона на практике.&lt;/li&gt;
+&lt;li&gt;📚 Продвинулись в математическом анализе — пределы и производные уже не пугают!&lt;/li&gt;
+&lt;li&gt;💬 Участвовали в обсуждении проектов по механике, делимся идеями и получаем обратную связь.&lt;/li&gt;
+&lt;li&gt;☕ Нашли время для кофе-брейков и знакомства между потоками.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Неделя выдалась насыщенной, но продуктивной. Впереди — ещё больше интересного. Удачи нам! 🚀&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Моя неделя</title>
